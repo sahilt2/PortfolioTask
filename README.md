@@ -1,46 +1,48 @@
 # PortfolioTask
-** This is a HTML and CSS final portfolio task
+ This is a HTML and CSS final portfolio task
 ## contents
-- DESKTOP
+### DESKTOP
 
-- JS 
+#### JS 
 
 - bg colour for the header on the scroll
 - back to top button
-- Hero-banner
+
+#### Hero-banner
 
 - Fixed header 
 - Animated hero-banner, background image fixed (not scrolling), the text is centred horizontally and vertically.
 
-- Projects
+#### Projects
 
 - Three projects with styled cards (hover effects, filters, shadows)
-- About me
+
+#### About me
 
 - Simple lore ipsum text with image
 
-- Skills 
+#### Skills 
 
 - Used icons, progress bar and pseudo-classes
 
-- Footer
+#### Footer
 
 - Contact form
 
-- Gallery
+#### Gallery
 
 - Separate page with working menu 
 - Grid with images, random image sizes
 
-- MOBILE
+### MOBILE
 
  
 
 - Same as a desktop but working nicely in 375px without horizontal scroll
 
-- JS
+#### JS
 
-Mobile menu with hamburger 
+- Mobile menu with hamburger 
 
 ### live link
 https://public.bc.fi/s2300123/sahil_thapa/portfolio-task
